@@ -1,0 +1,13 @@
+{
+  "embedding_dim": 64,
+  "hidden_dim": 64,
+  "num_layers": 1,
+  "dropout": 0.25,
+  "cnn_channels": 64,
+  "cnn_kernel_sizes": [
+    2,
+    3,
+    4
+  ],
+  "max_context_length": 12
+}

@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+client/dist/
+.venv/
+.python/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+logs/
+
